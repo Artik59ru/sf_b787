@@ -5,4 +5,4 @@ sf_b787
 #### git clone https://github.com/Artik59ru/sf_b787.git && cd sf_b787 && docker build ./ -t alpine_wget:v01
 
 ### Чтобы скачать favicon используйте start.sh
-#### sh start.sh <URL>
+#### sh start.sh "ваш URL"
